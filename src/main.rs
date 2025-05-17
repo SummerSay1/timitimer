@@ -1,4 +1,3 @@
-use clap::*;
 use std::io::Write;
 use std::time::Duration;
 use std::{thread, usize};
